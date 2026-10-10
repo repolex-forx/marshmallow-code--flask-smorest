@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "flask-smorest",
+  "versions": [
+    {
+      "commit": "3440f0d851f9e7f7b94d5559df3ab59746f5f6ca",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:15:17.489795+00:00"
+    }
+  ]
+}
