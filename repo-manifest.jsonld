@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/marshmallow-code/flask-smorest/commit/3440f0d851f9e7f7b94d5559df3ab59746f5f6ca",
       "git:hexsha": "3440f0d851f9e7f7b94d5559df3ab59746f5f6ca",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/marshmallow-code/flask-smorest/commit/d837382d01b32828fe58fdda43f7ab73fa532a1c",
